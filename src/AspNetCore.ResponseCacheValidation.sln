@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.ResponseCacheValidation", "AspNetCore.ResponseCacheValidation\AspNetCore.ResponseCacheValidation.csproj", "{81B19AB0-7260-483F-9195-0F1ADF7B87DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseCacheValidationSample", "ResponseCacheValidationSample\ResponseCacheValidationSample.csproj", "{A0907179-F5F9-4399-8E72-B5A3B851DC85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B19AB0-7260-483F-9195-0F1ADF7B87DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B19AB0-7260-483F-9195-0F1ADF7B87DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B19AB0-7260-483F-9195-0F1ADF7B87DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B19AB0-7260-483F-9195-0F1ADF7B87DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0907179-F5F9-4399-8E72-B5A3B851DC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0907179-F5F9-4399-8E72-B5A3B851DC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0907179-F5F9-4399-8E72-B5A3B851DC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0907179-F5F9-4399-8E72-B5A3B851DC85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20CD0F54-BC2F-43FC-BE22-5DE3C3224AEC}
+	EndGlobalSection
+EndGlobal

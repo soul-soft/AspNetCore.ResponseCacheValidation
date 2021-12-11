@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Description>基于ETag机制实现响应缓存</Description>
+		<RepositoryUrl>https://github.com/1448376744/AspNetCore.ResponseCacheValidation</RepositoryUrl>
+		<RepositoryType>github</RepositoryType>
+		<PackageTags>Caching,ETag,ResponseCaching</PackageTags>
+		<Authors>花间岛</Authors>
+		<AssemblyVersion>6.0.0</AssemblyVersion>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReleaseNotes>6.0.0</PackageReleaseNotes>
+		<Version>6.0.0-rc01</Version>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+</Project>
