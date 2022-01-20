@@ -4,8 +4,8 @@
 ## QQ群：307564339
 
 ## Nuget
-[EntityFrameworkCore.Extensions.SqlServer](SqlServer)
-[EntityFrameworkCore.Extensions.MySql](MySql)
+[SqlServer](https://www.nuget.org/packages/EntityFrameworkCore.Extensions.SqlServer)
+[MySql](https://www.nuget.org/packages/EntityFrameworkCore.Extensions.MySql)
 
 ## 1. 基本原理
 
