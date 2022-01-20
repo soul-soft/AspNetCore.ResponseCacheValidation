@@ -1,6 +1,12 @@
 # AspNetCore.ResponseCacheValidation
 
+
 ## QQ群：307564339
+
+## Nuget
+[EntityFrameworkCore.Extensions.SqlServer](SqlServer)
+[EntityFrameworkCore.Extensions.MySql](MySql)
+
 ## 1. 基本原理
 
 > 1. 浏览器第一次向服务器请求a资源，服务器返回该资源，并响应一个请求头etag:123456，浏览器发现etag会保存a资源
