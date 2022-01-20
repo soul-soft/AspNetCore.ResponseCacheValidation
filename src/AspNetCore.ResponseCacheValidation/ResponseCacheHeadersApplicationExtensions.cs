@@ -2,7 +2,7 @@
 
 namespace Microsoft.AspNetCore.Builder
 {
-    public static class ResponseCachingValidationExtensions
+    public static class ResponseCacheHeadersApplicationExtensions
     {
         public static IApplicationBuilder UseResponseCacheValidation(this IApplicationBuilder app)
         {
